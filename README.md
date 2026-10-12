@@ -43,8 +43,8 @@ This report answers those questions in six pages.
 - Separate **earnings** and **deductibles** tables break the pay components into categories, which powers the breakdown charts.
 - **DAX measures** calculate the headline numbers: total and average net salary, gross earnings, total deductions, overtime, loans and headcount.
 
-![Data Model 1](images/Data%20Model%201.png)
-![Data Model 2 (Calculated Tables)](images/Data%20Model%202.png)
+![Data Model 1](SALARY%20PROJECT/images/Data%20Model%201.png)
+![Data Model 2 (Calculated Tables)](SALARY%20PROJECT/images/Data%20Model%202.png)
 
 ## Dashboard Pages
 
@@ -57,13 +57,13 @@ This report answers those questions in six pages.
 | 5 | Loan Analysis | Loan types by business unit, loan categories, monthly loan trend |
 | 6 | Gross Earnings and Allowances / Deductibles | Allowance mix, top deductions, key influencers |
 
-![Employee Count](images/Employee%20Count.png)
-![Net Salary Analysis by Business Unit](images/Net%20Salary%20Analysis.png)
-![Earnings vs Deductions](images/Earnings%20vs%20Deductions.png)
-![Overtime Analysis](images/Overtime%20Analysis.png)
-![Loan Analysis](images/Loan%20Analysis.png)
-![Earnings & Allowances](images/Earnings%20and%20Allowances.png)
-![Deductibles Breakdown](images/Deductibles.png)
+![Employee Count](SALARY%20PROJECT/images/Employee%20Count.png)
+![Net Salary Analysis by Business Unit](SALARY%20PROJECT/images/Net%20Salary%20Analysis.png)
+![Earnings vs Deductions](SALARY%20PROJECT/images/Earnings%20vs%20Deductions.png)
+![Overtime Analysis](SALARY%20PROJECT/images/Overtime%20Analysis.png)
+![Loan Analysis](SALARY%20PROJECT/images/Loan%20Analysis.png)
+![Earnings & Allowances](SALARY%20PROJECT/images/Earnings%20and%20Allowances.png)
+![Deductibles Breakdown](SALARY%20PROJECT/images/Deductibles.png)
 
 ## Key Insights
 
